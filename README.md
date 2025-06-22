@@ -12,6 +12,11 @@ Users can explore a product made from basic geometries with mouse controls and a
 - Camera auto-rotates but can be controlled manually  
 - Modular and clean code structure
 
+## Demo Video
+
+![Demo](./assets/demo.gif)
+
+
 ## How to run
 
 1. Clone the repo  
