@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+
+#info-panel {
+  font-size: 14px;
+  pointer-events: none;
+  user-select: none;
+  transition: opacity 0.3s ease;
+}
