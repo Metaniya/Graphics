@@ -14,7 +14,7 @@ Users can explore a product made from basic geometries with mouse controls and a
 
 ## Demo Video
 
-![Demo](./assets/demo.gif)
+![Demo](./media/demogif.gif)
 
 
 ## How to run
